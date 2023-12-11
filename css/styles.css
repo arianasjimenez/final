@@ -1,0 +1,88 @@
+h1{
+    text-align: center; color: palevioletred;
+    font-family:cursive;
+    border: 5px palevioletred inset;
+    background-color: white;   
+}
+h2{
+    color: palevioletred;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.476); ;
+}
+   
+h3{
+    text-align: center;
+    color: palevioletred;
+    background-color: rgba(255, 255, 255, 0.476);
+    border-radius: 20%;
+}
+
+.blurb{
+    color: deeppink;
+    border: 1cap;
+    border-color: black;
+    margin-left: 80px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+}
+
+body{
+    background-image: url(https://1.bp.blogspot.com/-Y7IkjxoHmq4/UVJpX06GJMI/AAAAAAAAFHs/OhYlcQWjcoA/s1600/spotty-pink-background-seamless.jpg);
+    
+}
+img{
+    width: 20%;
+    margin-left: 80px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+a{
+    text-align: right; color: palevioletred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+a:visited{
+    color: hotpink;
+}
+.headers{
+    text-align: right ;
+}
+.headers:visited{
+    color: aliceblue;
+}
+
+.faves{
+color:deeppink;
+padding-left: 200px;
+padding-right: 10px;
+
+}
+.footer{
+    color: deeppink;
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    display: block;
+    text-align: center;
+}
+.bulletpoints{
+    color: deeppink;
+}
+iframe{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.cap{
+    color:deeppink;
+    margin-left: 80px;
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
