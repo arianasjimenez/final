@@ -1,26 +1,25 @@
 h1{
     text-align: center; color: palevioletred;
     font-family:cursive;
-    border: 5px palevioletred inset;
-    background-color: white;   
+    background-color: rgba(255, 255, 255, 0.832);  
+    border: deeppink dotted;
+
 }
 h2{
-    color: palevioletred;
+    color: rgb(249, 84, 139);
     text-align: center;
     background-color: rgba(255, 255, 255, 0.476); ;
 }
    
 h3{
     text-align: center;
-    color: palevioletred;
+    color: rgb(249, 84, 139);
     background-color: rgba(255, 255, 255, 0.476);
     border-radius: 20%;
 }
 
 .blurb{
-    color: deeppink;
     border: 1cap;
-    border-color: black;
     margin-left: 80px;
     padding-left: 30px;
     padding-right: 20px;
@@ -50,28 +49,24 @@ a:visited{
 }
 .headers{
     text-align: right ;
-}
-.headers:visited{
-    color: aliceblue;
+    font-size: large;
 }
 
+
 .faves{
-color:deeppink;
 padding-left: 200px;
 padding-right: 10px;
 
 }
 .footer{
-    color: deeppink;
+    color: palevioletred;
     z-index: 1;
     position: fixed;
     bottom: 0px;
     display: block;
     text-align: center;
 }
-.bulletpoints{
-    color: deeppink;
-}
+
 iframe{
     padding-left: 10px;
     padding-right: 10px;
@@ -79,10 +74,14 @@ iframe{
     padding-bottom: 15px;
 }
 .cap{
-    color:deeppink;
     margin-left: 80px;
     padding-left: 30px;
     padding-right: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
+    font-size: larger;
+}
+.mainbody{
+    color: deeppink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
